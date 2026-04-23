@@ -12,7 +12,7 @@ df = pd.read_excel("football_updated.xlsx")
 # -------------------------------
 # BASIC INFO
 # -------------------------------
-print("First 5 Rows:\n", df.head())
+print("First 5 Rows:\n",df.head())
 
 print("\nDataset Info:\n")
 print(df.info())
