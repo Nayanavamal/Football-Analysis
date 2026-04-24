@@ -6,7 +6,7 @@ from scipy.stats import ttest_ind, shapiro, chi2_contingency
 
 # -------------------------------
 # LOAD DATA
-# -------------------------------
+# ------------------------------
 df = pd.read_excel("football_updated.xlsx")
 
 # -------------------------------
